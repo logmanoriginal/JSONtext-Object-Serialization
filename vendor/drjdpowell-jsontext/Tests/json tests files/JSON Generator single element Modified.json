@@ -1,0 +1,45 @@
+{
+    "_id": "59b53bcb02b0cb1b19bb98a8",
+    "index": 0,
+    "guid": "787c1912-662d-48b9-b395-2ad75d217224",
+    "isActive": true,
+    "balance": "$2,389.42",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "green",
+    "name": "Brady York",
+    "gender": "male",
+    "company": "ELEMANTRA",
+    "email": "bradyyork@elemantra.com",
+    "phone": "+1 (932) 487-2014",
+    "address": "349 Amber Street, Day, Rhode Island, 8815",
+    "about": "Culpa magna magna incididunt aliquip adipisicing incididunt. Culpa ex qui aliqua aliqua sint aliqua incididunt duis. Labore consectetur in pariatur qui anim reprehenderit duis.\r\n",
+    "registered": "2014-10-21T08:11:24 -01:00",
+    "latitude": -14.331614,
+    "longitude": -65.032248,
+    "tags": [
+      "sint",
+      "sint",
+      "magna",
+      "laboris",
+      "irure",
+      "aliquip",
+      "voluptate"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Magdalena Stanley"
+      },
+      {
+        "id": 1,
+        "name": "Gill Alvarez"
+      },
+      {
+        "id": 2,
+        "name": "Alston Pacheco"
+      }
+    ],
+    "greeting": "Hello, Brady York! You have 8 unread messages.",
+    "favoriteFruit": "apple"
+  }
