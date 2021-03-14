@@ -20,4 +20,15 @@
 	<Item Name="LVObject to JSON - Object With Member - Returns JSON Object With Member.vi" Type="VI" URL="../LVObject to JSON - Object With Member - Returns JSON Object With Member.vi"/>
 	<Item Name="LVObject to JSON - Warning Input - Returns JSON Object.vi" Type="VI" URL="../LVObject to JSON - Warning Input - Returns JSON Object.vi"/>
 	<Item Name="LVObject to JSON - Warning Input - Returns Same Warning.vi" Type="VI" URL="../LVObject to JSON - Warning Input - Returns Same Warning.vi"/>
+	<Item Name="JSON to LVObject - Aggregate Descendant And JSON Object With All Fields - Returns Aggregate Descendant With All Fields Set.vi" Type="VI" URL="../JSON to LVObject - Aggregate Descendant And JSON Object With All Fields - Returns Aggregate Descendant With All Fields Set.vi"/>
+	<Item Name="JSON to LVObject - Descendant Class And JSON Object With All Fields - Returns Descendant Class With All Fields Set.vi" Type="VI" URL="../JSON to LVObject - Descendant Class And JSON Object With All Fields - Returns Descendant Class With All Fields Set.vi"/>
+	<Item Name="JSON to LVObject - Error Input - Returns Same Error.vi" Type="VI" URL="../JSON to LVObject - Error Input - Returns Same Error.vi"/>
+	<Item Name="JSON to LVObject - Error Input - Returns LabVIEW Object.vi" Type="VI" URL="../JSON to LVObject - Error Input - Returns LabVIEW Object.vi"/>
+	<Item Name="JSON to LVObject - LabVIEW Object And Empty JSON Object - Returns LabVIEW Object.vi" Type="VI" URL="../JSON to LVObject - LabVIEW Object And Empty JSON Object - Returns LabVIEW Object.vi"/>
+	<Item Name="JSON to LVObject - Object With Member And Empty JSON Object - Returns Same Object.vi" Type="VI" URL="../JSON to LVObject - Object With Member And Empty JSON Object - Returns Same Object.vi"/>
+	<Item Name="JSON to LVObject - Object With Member And JSON Object With Member - Returns Same Object With Member Set.vi" Type="VI" URL="../JSON to LVObject - Object With Member And JSON Object With Member - Returns Same Object With Member Set.vi"/>
+	<Item Name="JSON to LVObject - Object With Member And JSON Object With Additional Member - Returns Same Object With Member Set.vi" Type="VI" URL="../JSON to LVObject - Object With Member And JSON Object With Additional Member - Returns Same Object With Member Set.vi"/>
+	<Item Name="JSON to LVObject - Warning Input - Returns Same Warning.vi" Type="VI" URL="../JSON to LVObject - Warning Input - Returns Same Warning.vi"/>
+	<Item Name="JSON to LVObject - Warning Input - Returns Specified Object.vi" Type="VI" URL="../JSON to LVObject - Warning Input - Returns Specified Object.vi"/>
+	<Item Name="JSON to LVObject - Offset - Returns Specified Object.vi" Type="VI" URL="../JSON to LVObject - Offset - Returns Specified Object.vi"/>
 </Library>
