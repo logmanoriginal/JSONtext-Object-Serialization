@@ -171,6 +171,7 @@ Copyright 2017 JDP Science Limited, Oxford, UK.</Property>
 		<Item Name="SGL to String.vi" Type="VI" URL="../support/SGL to String.vi"/>
 		<Item Name="Strip Quotes and Unescape.vi" Type="VI" URL="../support/Strip Quotes and Unescape.vi"/>
 		<Item Name="Tag for JSON Text.vi" Type="VI" URL="../support/Tag for JSON Text.vi"/>
+		<Item Name="Tag Type.ctl" Type="VI" URL="../support/Tag Type.ctl"/>
 		<Item Name="Treatment of NaN and Inf.vi" Type="VI" URL="../support/Treatment of NaN and Inf.vi"/>
 		<Item Name="Trim Input JSON (and null).vi" Type="VI" URL="../support/Trim Input JSON (and null).vi"/>
 		<Item Name="Trim Whitespace__JSONtext.vi" Type="VI" URL="../support/Trim Whitespace__JSONtext.vi"/>
@@ -186,4 +187,5 @@ Copyright 2017 JDP Science Limited, Oxford, UK.</Property>
 		</Item>
 	</Item>
 	<Item Name="functions_JDP_Science_JSONtext.mnu" Type="Document" URL="/&lt;vilib&gt;/addons/functions_JDP_Science_JSONtext.mnu"/>
+	<Item Name="JSON Tags on Array.vi" Type="VI" URL="../support/JSON Tags on Array.vi"/>
 </Library>
