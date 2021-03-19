@@ -16,8 +16,10 @@
 			<Item Name="GCentral API.lvlib" Type="Library" URL="../GCentral API/GCentral API.lvlib"/>
 		</Item>
 		<Item Name=".vipc" Type="Document" URL="../.vipc"/>
+		<Item Name=".vipb" Type="Document" URL="../.vipb"/>
 		<Item Name="LICENSE.txt" Type="Document" URL="../LICENSE.txt"/>
 		<Item Name="README.md" Type="Document" URL="../README.md"/>
+		<Item Name="Flatten To JSON Object (Constant).vi" Type="VI" URL="../Flatten To JSON Object (Constant).vi"/>
 		<Item Name="Flatten To JSON Object.lvclass" Type="LVClass" URL="../Flatten To JSON Object/Flatten To JSON Object.lvclass"/>
 		<Item Name="Tests.lvlib" Type="Library" URL="../Tests/Tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
