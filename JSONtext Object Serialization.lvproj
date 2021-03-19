@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="17008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -14,6 +15,9 @@
 		<Item Name="Examples" Type="Folder">
 			<Item Name="GCentral API.lvlib" Type="Library" URL="../GCentral API/GCentral API.lvlib"/>
 		</Item>
+		<Item Name=".vipc" Type="Document" URL="../.vipc"/>
+		<Item Name="LICENSE.txt" Type="Document" URL="../LICENSE.txt"/>
+		<Item Name="README.md" Type="Document" URL="../README.md"/>
 		<Item Name="Flatten To JSON Object.lvclass" Type="LVClass" URL="../Flatten To JSON Object/Flatten To JSON Object.lvclass"/>
 		<Item Name="Tests.lvlib" Type="Library" URL="../Tests/Tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
