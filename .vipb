@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-03-22 20:50:32" Creator="Pascal Neuperger" Comments="" ID="657007774e29b33100c664fedb8602f9">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-03-22 21:06:45" Creator="Pascal Neuperger" Comments="" ID="5487992fd3042e3ec4fdf8b77d0ca8ec">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JSONtext_Object_Serialization</Package_File_Name>
-    <Library_Version>0.0.1.7</Library_Version>
+    <Library_Version>0.0.1.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -120,61 +120,6 @@ Represents LabVIEW Objects as composite JSON Object. Parent classes form a union
       </Password_Overrides>
       <Namespace_Overrides>
         <Path>.</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace>PNR_</Namespace>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Flatten To JSON Object/JSON to LVObject.vi</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Flatten To JSON Object/LVObject to JSON.vi</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Flatten To JSON Object/Handle Type Name.vi</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Flatten To JSON Object/Handle Type.vi</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Flatten To JSON Object/Read Type Name Handling.vi</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Flatten To JSON Object/Type Name Handling.ctl</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Flatten To JSON Object/Write Type Name Handling.vi</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Default Serialization Binder/Bind To Name.vi</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Default Serialization Binder/Bind To Type.vi</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Serialization Binder/Bind To Type.vi</Path>
-        <Namespace_Type>Prefix</Namespace_Type>
-        <Namespace/>
-      </Namespace_Overrides>
-      <Namespace_Overrides>
-        <Path>Serialization Binder/Bind To Name.vi</Path>
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
@@ -315,7 +260,7 @@ Represents LabVIEW Objects as composite JSON Object. Parent classes form a union
         <Path>Flatten To JSON Object (Constant).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BC74AE965FA19E0EFEF95B81BD964899</GUID>
+      <GUID>5E37EFB74EBABE5234CE8AC210591068</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
