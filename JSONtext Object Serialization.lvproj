@@ -22,6 +22,9 @@
 		<Item Name="Flatten To JSON Object (Constant).vi" Type="VI" URL="../Flatten To JSON Object (Constant).vi"/>
 		<Item Name="Flatten To JSON Object.lvclass" Type="LVClass" URL="../Flatten To JSON Object/Flatten To JSON Object.lvclass"/>
 		<Item Name="Tests.lvlib" Type="Library" URL="../Tests/Tests.lvlib"/>
+		<Item Name="Serialization Binder.lvclass" Type="LVClass" URL="../Serialization Binder/Serialization Binder.lvclass"/>
+		<Item Name="Default Serialization Binder.lvclass" Type="LVClass" URL="../Default Serialization Binder/Default Serialization Binder.lvclass"/>
+		<Item Name="Default Serialization Binder Tests.lvlib" Type="Library" URL="../Default Serialization Binder Tests/Default Serialization Binder Tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/error/error.llb/Build Error Cluster__ogtk.vi"/>
