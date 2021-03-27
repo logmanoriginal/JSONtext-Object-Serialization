@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-03-27 19:44:55" Creator="Pascal Neuperger" Comments="" ID="ec084bd04d2e606cac6f81d9d107e5d1">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-03-27 20:38:46" Creator="Pascal Neuperger" Comments="" ID="a5fdb8ca4509999924ba56572eb98806">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JSONtext_Object_Serialization</Package_File_Name>
-    <Library_Version>0.0.1.9</Library_Version>
+    <Library_Version>0.0.1.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -229,7 +229,7 @@ Represents LabVIEW Objects as composite JSON Object. Parent classes form a union
   <Library_Palette_Definition>
     <Functions_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
-      <Name>Strategies</Name>
+      <Name>LVClass Serializer</Name>
       <View_Format>Icons</View_Format>
       <Size>
         <Height_Row>1</Height_Row>
@@ -260,7 +260,7 @@ Represents LabVIEW Objects as composite JSON Object. Parent classes form a union
         <Path>Flatten To JSON Object (Constant).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0B3DAAE1947359449A26BB6014C813D9</GUID>
+      <GUID>75112AFBD816A7EDBB50ECC32DBB3828</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
