@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-03-22 21:06:45" Creator="Pascal Neuperger" Comments="" ID="5487992fd3042e3ec4fdf8b77d0ca8ec">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-03-27 19:44:55" Creator="Pascal Neuperger" Comments="" ID="ec084bd04d2e606cac6f81d9d107e5d1">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JSONtext_Object_Serialization</Package_File_Name>
-    <Library_Version>0.0.1.8</Library_Version>
+    <Library_Version>0.0.1.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -17,10 +17,10 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <External_Dependencies>jdp_science_jsontext &gt;= 1.5.1.93</External_Dependencies>
+      <External_Dependencies>jdp_science_jsontext &gt;= 1.5.2.95</External_Dependencies>
       <External_Dependencies>jdp_science_lib_common_utilities &gt;= 1.2.2.13</External_Dependencies>
       <External_Dependencies>jki_lib_caraya &gt;= 1.1.0.119</External_Dependencies>
-      <Direct_Dependencies>jdp_science_jsontext-1.5.1.93</Direct_Dependencies>
+      <Direct_Dependencies>jdp_science_jsontext-1.5.2.95</Direct_Dependencies>
       <Direct_Dependencies>jdp_science_lib_common_utilities-1.2.2.13</Direct_Dependencies>
       <Direct_Dependencies>jki_lib_caraya-1.1.0.119</Direct_Dependencies>
     </Package_Dependencies>
@@ -260,7 +260,7 @@ Represents LabVIEW Objects as composite JSON Object. Parent classes form a union
         <Path>Flatten To JSON Object (Constant).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E37EFB74EBABE5234CE8AC210591068</GUID>
+      <GUID>0B3DAAE1947359449A26BB6014C813D9</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
