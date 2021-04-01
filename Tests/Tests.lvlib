@@ -13,9 +13,11 @@
 		<Item Name="Weather Forecast.lvclass" Type="LVClass" URL="../Weather Forecast/Weather Forecast.lvclass"/>
 		<Item Name="Temperature Forecast.lvclass" Type="LVClass" URL="../Temperature Forecast/Temperature Forecast.lvclass"/>
 		<Item Name="City.lvclass" Type="LVClass" URL="../City/City.lvclass"/>
+		<Item Name="Strings.lvclass" Type="LVClass" URL="../Strings/Strings.lvclass"/>
 	</Item>
 	<Item Name="Type Name Handling.lvlib" Type="Library" URL="../Type Name Handling/Type Name Handling.lvlib"/>
 	<Item Name="LabVIEW Extensions.lvlib" Type="Library" URL="../LabVIEW Extensions/LabVIEW Extensions.lvlib"/>
+	<Item Name="Pretty Print.lvlib" Type="Library" URL="../Pretty Print/Pretty Print.lvlib"/>
 	<Item Name="LVObject to JSON - Aggregate - Returns JSON Object With Nested JSON Object.vi" Type="VI" URL="../LVObject to JSON - Aggregate - Returns JSON Object With Nested JSON Object.vi"/>
 	<Item Name="LVObject to JSON - Aggregate Descendant - Returns JSON Object With Descendant JSON Object.vi" Type="VI" URL="../LVObject to JSON - Aggregate Descendant - Returns JSON Object With Descendant JSON Object.vi"/>
 	<Item Name="LVObject to JSON - Descendant Class - Returns JSON Object With All Fields.vi" Type="VI" URL="../LVObject to JSON - Descendant Class - Returns JSON Object With All Fields.vi"/>
