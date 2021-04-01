@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-03-27 21:49:56" Creator="Pascal Neuperger" Comments="" ID="2ab5ecfd4a225fcd048d4737acfb7ef7">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-04-01 22:24:22" Creator="Pascal Neuperger" Comments="" ID="3c7fdc4d4c09e9688afc5fcbc08b8336">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JSONtext_Object_Serialization</Package_File_Name>
-    <Library_Version>0.0.1.11</Library_Version>
+    <Library_Version>0.0.1.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -17,14 +17,14 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <External_Dependencies>jdp_science_jsontext &gt;= 1.5.2.95</External_Dependencies>
+      <External_Dependencies>jdp_science_jsontext &gt;= 1.5.3.97</External_Dependencies>
       <External_Dependencies>jdp_science_lib_common_utilities &gt;= 1.2.2.13</External_Dependencies>
       <External_Dependencies>jki_lib_caraya &gt;= 1.1.0.119</External_Dependencies>
-      <External_Dependencies>pnr_lib_labview_composition &gt;= 1.0.0.5</External_Dependencies>
-      <Direct_Dependencies>jdp_science_jsontext-1.5.2.95</Direct_Dependencies>
+      <External_Dependencies>pnr_lib_labview_composition &gt;= 1.0.1.6</External_Dependencies>
+      <Direct_Dependencies>jdp_science_jsontext-1.5.3.97</Direct_Dependencies>
       <Direct_Dependencies>jdp_science_lib_common_utilities-1.2.2.13</Direct_Dependencies>
       <Direct_Dependencies>jki_lib_caraya-1.1.0.119</Direct_Dependencies>
-      <Direct_Dependencies>pnr_lib_labview_composition-1.0.0.5</Direct_Dependencies>
+      <Direct_Dependencies>pnr_lib_labview_composition-1.0.1.6</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -248,7 +248,7 @@ Represents LabVIEW Objects as composite JSON Object. Parent classes form a union
         <Path>Flatten To JSON Object (Constant).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0E2E43AFF4957270DECDC3705232F64B</GUID>
+      <GUID>C179570A27086041D3363961C527FC2B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
