@@ -8,6 +8,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="JSON to LVObject - Error Serialization Binder - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Error Serialization Binder - Returns Error.vi"/>
 	<Item Name="LVObject to JSON - Error Serialization Binder - Returns Error.vi" Type="VI" URL="../LVObject to JSON - Error Serialization Binder - Returns Error.vi"/>
+	<Item Name="LVObject to JSON - Malicious Serialization Binder - Escapes Malicious JSON.vi" Type="VI" URL="../LVObject to JSON - Malicious Serialization Binder - Escapes Malicious JSON.vi"/>
 	<Item Name="Read - Error Input - Returns Same Error.vi" Type="VI" URL="../Read - Error Input - Returns Same Error.vi"/>
 	<Item Name="Read - Error Input - Returns Serialization Binder Base Class.vi" Type="VI" URL="../Read - Error Input - Returns Serialization Binder Base Class.vi"/>
 	<Item Name="Read - Returns Default Serialization Binder.vi" Type="VI" URL="../Read - Returns Default Serialization Binder.vi"/>

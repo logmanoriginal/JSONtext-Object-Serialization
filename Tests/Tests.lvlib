@@ -15,6 +15,7 @@
 		<Item Name="City.lvclass" Type="LVClass" URL="../City/City.lvclass"/>
 		<Item Name="4D String Array.lvclass" Type="LVClass" URL="../4D String Array/4D String Array.lvclass"/>
 		<Item Name="Error Serialization Binder.lvclass" Type="LVClass" URL="../Error Serialization Binder/Error Serialization Binder.lvclass"/>
+		<Item Name="Malicious Serialization Binder.lvclass" Type="LVClass" URL="../Malicious Serialization Binder/Malicious Serialization Binder.lvclass"/>
 	</Item>
 	<Item Name="Type Name Handling.lvlib" Type="Library" URL="../Type Name Handling/Type Name Handling.lvlib"/>
 	<Item Name="LabVIEW Extensions.lvlib" Type="Library" URL="../LabVIEW Extensions/LabVIEW Extensions.lvlib"/>
