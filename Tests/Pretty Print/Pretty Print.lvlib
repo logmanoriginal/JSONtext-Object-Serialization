@@ -6,8 +6,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="LVObject to JSON - 200 Elements - Produces Pretty Output.vi" Type="VI" URL="../LVObject to JSON - 200 Elements - Produces Pretty Output.vi"/>
-	<Item Name="LVObject to JSON - 200 Elements No Pretty Print - Produces Regular Output.vi" Type="VI" URL="../LVObject to JSON - 200 Elements No Pretty Print - Produces Regular Output.vi"/>
 	<Item Name="LVObject to JSON - Default - Pretty Print Disabled.vi" Type="VI" URL="../LVObject to JSON - Default - Pretty Print Disabled.vi"/>
 	<Item Name="LVObject to JSON - False - Pretty Print Disabled.vi" Type="VI" URL="../LVObject to JSON - False - Pretty Print Disabled.vi"/>
 	<Item Name="LVObject to JSON - True - Pretty Print Enabled.vi" Type="VI" URL="../LVObject to JSON - True - Pretty Print Enabled.vi"/>

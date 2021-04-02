@@ -13,7 +13,6 @@
 		<Item Name="Weather Forecast.lvclass" Type="LVClass" URL="../Weather Forecast/Weather Forecast.lvclass"/>
 		<Item Name="Temperature Forecast.lvclass" Type="LVClass" URL="../Temperature Forecast/Temperature Forecast.lvclass"/>
 		<Item Name="City.lvclass" Type="LVClass" URL="../City/City.lvclass"/>
-		<Item Name="Strings.lvclass" Type="LVClass" URL="../Strings/Strings.lvclass"/>
 	</Item>
 	<Item Name="Type Name Handling.lvlib" Type="Library" URL="../Type Name Handling/Type Name Handling.lvlib"/>
 	<Item Name="LabVIEW Extensions.lvlib" Type="Library" URL="../LabVIEW Extensions/LabVIEW Extensions.lvlib"/>
