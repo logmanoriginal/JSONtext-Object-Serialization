@@ -14,10 +14,12 @@
 		<Item Name="Temperature Forecast.lvclass" Type="LVClass" URL="../Temperature Forecast/Temperature Forecast.lvclass"/>
 		<Item Name="City.lvclass" Type="LVClass" URL="../City/City.lvclass"/>
 		<Item Name="4D String Array.lvclass" Type="LVClass" URL="../4D String Array/4D String Array.lvclass"/>
+		<Item Name="Error Serialization Binder.lvclass" Type="LVClass" URL="../Error Serialization Binder/Error Serialization Binder.lvclass"/>
 	</Item>
 	<Item Name="Type Name Handling.lvlib" Type="Library" URL="../Type Name Handling/Type Name Handling.lvlib"/>
 	<Item Name="LabVIEW Extensions.lvlib" Type="Library" URL="../LabVIEW Extensions/LabVIEW Extensions.lvlib"/>
 	<Item Name="Pretty Print.lvlib" Type="Library" URL="../Pretty Print/Pretty Print.lvlib"/>
+	<Item Name="Serialization Binder.lvlib" Type="Library" URL="../Serialization Binder/Serialization Binder.lvlib"/>
 	<Item Name="LVObject to JSON - Aggregate - Returns JSON Object With Nested JSON Object.vi" Type="VI" URL="../LVObject to JSON - Aggregate - Returns JSON Object With Nested JSON Object.vi"/>
 	<Item Name="LVObject to JSON - Aggregate Descendant - Returns JSON Object With Descendant JSON Object.vi" Type="VI" URL="../LVObject to JSON - Aggregate Descendant - Returns JSON Object With Descendant JSON Object.vi"/>
 	<Item Name="LVObject to JSON - Descendant Class - Returns JSON Object With All Fields.vi" Type="VI" URL="../LVObject to JSON - Descendant Class - Returns JSON Object With All Fields.vi"/>
@@ -27,6 +29,7 @@
 	<Item Name="LVObject to JSON - Object With Member - Returns JSON Object With Member.vi" Type="VI" URL="../LVObject to JSON - Object With Member - Returns JSON Object With Member.vi"/>
 	<Item Name="LVObject to JSON - Warning Input - Returns JSON Object.vi" Type="VI" URL="../LVObject to JSON - Warning Input - Returns JSON Object.vi"/>
 	<Item Name="LVObject to JSON - Warning Input - Returns Same Warning.vi" Type="VI" URL="../LVObject to JSON - Warning Input - Returns Same Warning.vi"/>
+	<Item Name="LVObject to JSON - 4D String Array - Returns Error.vi" Type="VI" URL="../LVObject to JSON - 4D String Array - Returns Error.vi"/>
 	<Item Name="JSON to LVObject - Descendant Class And JSON Object With All Fields - Returns Descendant Class With All Fields Set.vi" Type="VI" URL="../JSON to LVObject - Descendant Class And JSON Object With All Fields - Returns Descendant Class With All Fields Set.vi"/>
 	<Item Name="JSON to LVObject - Error Input - Returns Same Error.vi" Type="VI" URL="../JSON to LVObject - Error Input - Returns Same Error.vi"/>
 	<Item Name="JSON to LVObject - Error Input - Returns LabVIEW Object.vi" Type="VI" URL="../JSON to LVObject - Error Input - Returns LabVIEW Object.vi"/>
@@ -37,5 +40,4 @@
 	<Item Name="JSON to LVObject - Warning Input - Returns Same Warning.vi" Type="VI" URL="../JSON to LVObject - Warning Input - Returns Same Warning.vi"/>
 	<Item Name="JSON to LVObject - Warning Input - Returns Specified Object.vi" Type="VI" URL="../JSON to LVObject - Warning Input - Returns Specified Object.vi"/>
 	<Item Name="JSON to LVObject - Offset - Returns Specified Object.vi" Type="VI" URL="../JSON to LVObject - Offset - Returns Specified Object.vi"/>
-	<Item Name="LVObject to JSON - 4D String Array - Returns Error.vi" Type="VI" URL="../LVObject to JSON - 4D String Array - Returns Error.vi"/>
 </Library>
