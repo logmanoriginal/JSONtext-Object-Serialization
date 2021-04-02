@@ -13,6 +13,7 @@
 		<Item Name="Weather Forecast.lvclass" Type="LVClass" URL="../Weather Forecast/Weather Forecast.lvclass"/>
 		<Item Name="Temperature Forecast.lvclass" Type="LVClass" URL="../Temperature Forecast/Temperature Forecast.lvclass"/>
 		<Item Name="City.lvclass" Type="LVClass" URL="../City/City.lvclass"/>
+		<Item Name="4D String Array.lvclass" Type="LVClass" URL="../4D String Array/4D String Array.lvclass"/>
 	</Item>
 	<Item Name="Type Name Handling.lvlib" Type="Library" URL="../Type Name Handling/Type Name Handling.lvlib"/>
 	<Item Name="LabVIEW Extensions.lvlib" Type="Library" URL="../LabVIEW Extensions/LabVIEW Extensions.lvlib"/>
@@ -36,4 +37,5 @@
 	<Item Name="JSON to LVObject - Warning Input - Returns Same Warning.vi" Type="VI" URL="../JSON to LVObject - Warning Input - Returns Same Warning.vi"/>
 	<Item Name="JSON to LVObject - Warning Input - Returns Specified Object.vi" Type="VI" URL="../JSON to LVObject - Warning Input - Returns Specified Object.vi"/>
 	<Item Name="JSON to LVObject - Offset - Returns Specified Object.vi" Type="VI" URL="../JSON to LVObject - Offset - Returns Specified Object.vi"/>
+	<Item Name="LVObject to JSON - 4D String Array - Returns Error.vi" Type="VI" URL="../LVObject to JSON - 4D String Array - Returns Error.vi"/>
 </Library>
