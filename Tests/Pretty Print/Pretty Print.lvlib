@@ -8,5 +8,6 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="LVObject to JSON - Default - Pretty Print Disabled.vi" Type="VI" URL="../LVObject to JSON - Default - Pretty Print Disabled.vi"/>
 	<Item Name="LVObject to JSON - False - Pretty Print Disabled.vi" Type="VI" URL="../LVObject to JSON - False - Pretty Print Disabled.vi"/>
+	<Item Name="LVObject to JSON - Inline Type Name Handling - Output Is Pretty Printed.vi" Type="VI" URL="../LVObject to JSON - Inline Type Name Handling - Output Is Pretty Printed.vi"/>
 	<Item Name="LVObject to JSON - True - Pretty Print Enabled.vi" Type="VI" URL="../LVObject to JSON - True - Pretty Print Enabled.vi"/>
 </Library>

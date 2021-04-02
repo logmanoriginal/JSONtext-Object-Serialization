@@ -96,6 +96,16 @@
 		<Property Name="NI.ClassItem.State" Type="Int">536576</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Insert Type Name.vi" Type="VI" URL="../Insert Type Name.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#K!!!!"A!%!!!!&amp;%!Q`````QI]3F.04DYA&lt;X6U!!!31#%.5(*F&gt;(2Z)&amp;"S;7ZU0Q!31$$`````#62Z='5A4G&amp;N:1!31$$`````#4R+5U^/0C"J&lt;A"5!0!!$!!!!!!!!!!"!!!!!!!!!!)!!!!!!!-!"!-!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!1!!!!!!!!!!!!!!!3!!!!%!!!!!!"!!5!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821073</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 	<Item Name="Handle Type Name.vi" Type="VI" URL="../Handle Type Name.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'U!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!)E"Q!"Y!!!Z-97*73568)%^C;G6D&gt;!!)6(FQ:3"P&gt;81!!"*!-0````])3F.04C"P&gt;81!!%:!=!!?!!!A(E:M982U:7YA6']A3F.04C"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!'E:M982U:7YA6']A3F.04C"09GJF9X1A&lt;X6U!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!?1(!!(A!!$ERB9F:*26=A4W*K:7.U!!25?8"F!!!/1$$`````"%J44UY!!%2!=!!?!!!A(E:M982U:7YA6']A3F.04C"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!'5:M982U:7YA6']A3F.04C"09GJF9X1A;7Y!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!$1E!!!U+!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!"%A!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -107,13 +117,13 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Handle Type.vi" Type="VI" URL="../Handle Type.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'3!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````])3F.04C"P&gt;81!!%:!=!!?!!!A(E:M982U:7YA6']A3F.04C"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!'E:M982U:7YA6']A3F.04C"09GJF9X1A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"Z!=!!?!!!/4'&amp;C6EF&amp;6S"09GJF9X1!"&amp;2Z='5!!!Z!-0````]%3F.04A!!2%"Q!"Y!!#!?2GRB&gt;(2F&lt;C"5&lt;S"+5U^/)%^C;G6D&gt;#ZM&gt;G.M98.T!!!:2GRB&gt;(2F&lt;C"5&lt;S"+5U^/)%^C;G6D&gt;#"J&lt;A"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!)!!E!#A-!!(A!!!U)!!!!!!!!$1I!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!%3!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'E!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````])3F.04C"P&gt;81!!%:!=!!?!!!A(E:M982U:7YA6']A3F.04C"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!'E:M982U:7YA6']A3F.04C"09GJF9X1A&lt;X6U!!!31#%.5(*F&gt;(2Z)&amp;"S;7ZU0Q!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"Z!=!!?!!!/4'&amp;C6EF&amp;6S"09GJF9X1!"&amp;2Z='5!!!Z!-0````]%3F.04A!!2%"Q!"Y!!#!?2GRB&gt;(2F&lt;C"5&lt;S"+5U^/)%^C;G6D&gt;#ZM&gt;G.M98.T!!!:2GRB&gt;(2F&lt;C"5&lt;S"+5U^/)%^C;G6D&gt;#"J&lt;A"B!0!!$!!$!!1!"1!'!!1!"!!%!!=!#!!*!!I!#Q-!!(A!!!U)!!!!!!!!$1I!!!U,!!!!!!!!!!!!!!!!!!!1!!!!#A!!!"!!!!%3!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="JSON to LVObject.vi" Type="VI" URL="../JSON to LVObject.vi">
