@@ -13,6 +13,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder">
+			<Item Name="JSON Serializable" Type="Folder">
+				<Item Name="Serializable Account.lvclass" Type="LVClass" URL="../Examples/Serializable Account/Serializable Account.lvclass"/>
+				<Item Name="Serialize a JSON Serializable Object.vi" Type="VI" URL="../Examples/Serialize a JSON Serializable Object.vi"/>
+				<Item Name="Deserialize a JSON Serializable Object.vi" Type="VI" URL="../Examples/Deserialize a JSON Serializable Object.vi"/>
+			</Item>
 			<Item Name="Account.lvclass" Type="LVClass" URL="../Examples/Account/Account.lvclass"/>
 			<Item Name="Known Types Binder.lvclass" Type="LVClass" URL="../Examples/Known Types Binder/Known Types Binder.lvclass"/>
 			<Item Name="Serialize an Object.vi" Type="VI" URL="../Examples/Serialize an Object.vi"/>
@@ -31,6 +36,13 @@
 		<Item Name="Serialization Binder.lvclass" Type="LVClass" URL="../Serialization Binder/Serialization Binder.lvclass"/>
 		<Item Name="Default Serialization Binder.lvclass" Type="LVClass" URL="../Default Serialization Binder/Default Serialization Binder.lvclass"/>
 		<Item Name="Default Serialization Binder Tests.lvlib" Type="Library" URL="../Default Serialization Binder Tests/Default Serialization Binder Tests.lvlib"/>
+		<Item Name="JSON Serializable.lvclass" Type="LVClass" URL="../JSON Serializable/JSON Serializable.lvclass"/>
+		<Item Name="JSON Serializable Tests.lvlib" Type="Library" URL="../JSON Serializable Tests/JSON Serializable Tests.lvlib"/>
+		<Item Name="JSON Serializable Binder.lvclass" Type="LVClass" URL="../JSON Serializable Binder/JSON Serializable Binder.lvclass"/>
+		<Item Name="JSON Serializable Binder Tests.lvlib" Type="Library" URL="../JSON Serializable Binder Tests/JSON Serializable Binder Tests.lvlib"/>
+		<Item Name="JSON Serializable Serializer (Constant).vi" Type="VI" URL="../JSON Serializable Serializer (Constant).vi"/>
+		<Item Name="JSON Serializable Serializer.lvclass" Type="LVClass" URL="../JSON Serializable Serializer/JSON Serializable Serializer.lvclass"/>
+		<Item Name="JSON Serializable Serializer Tests.lvlib" Type="Library" URL="../JSON Serializable Serializer Tests/JSON Serializable Serializer Tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -433,6 +445,10 @@
 				<Item Name="Composition.lvlib" Type="Library" URL="/&lt;vilib&gt;/PNR/LabVIEW Composition/Composition/Composition.lvlib"/>
 				<Item Name="Is Path and Not Empty.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Is Path and Not Empty.vi"/>
 				<Item Name="Base64 Support.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JSONtext/Base64/Base64 Support.lvlib"/>
+				<Item Name="MD5Checksum pad.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/MD5Checksum.llb/MD5Checksum pad.vi"/>
+				<Item Name="MD5Checksum core.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/MD5Checksum.llb/MD5Checksum core.vi"/>
+				<Item Name="MD5Checksum format message-digest.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/MD5Checksum.llb/MD5Checksum format message-digest.vi"/>
+				<Item Name="MD5Checksum string.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/MD5Checksum.llb/MD5Checksum string.vi"/>
 			</Item>
 			<Item Name="Run Tests in Active Project.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2017/project/Caraya/Run Tests in Active Project.vi"/>
 		</Item>
