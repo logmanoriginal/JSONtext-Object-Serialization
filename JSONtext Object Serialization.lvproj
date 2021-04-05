@@ -26,11 +26,15 @@
 			<Item Name="Deserialize an Object with Type Information (Inline).vi" Type="VI" URL="../Examples/Deserialize an Object with Type Information (Inline).vi"/>
 			<Item Name="Custom Serialization Binder.vi" Type="VI" URL="../Examples/Custom Serialization Binder.vi"/>
 		</Item>
+		<Item Name="Palettes" Type="Folder">
+			<Item Name="Flatten To JSON Object (Constant).vi" Type="VI" URL="../Flatten To JSON Object (Constant).vi"/>
+			<Item Name="JSON Serializable Serializer (Constant).vi" Type="VI" URL="../JSON Serializable Serializer (Constant).vi"/>
+			<Item Name="Default Serialization Binder (Constant).vi" Type="VI" URL="../Default Serialization Binder (Constant).vi"/>
+		</Item>
 		<Item Name=".vipc" Type="Document" URL="../.vipc"/>
 		<Item Name=".vipb" Type="Document" URL="../.vipb"/>
 		<Item Name="LICENSE.txt" Type="Document" URL="../LICENSE.txt"/>
 		<Item Name="README.md" Type="Document" URL="../README.md"/>
-		<Item Name="Flatten To JSON Object (Constant).vi" Type="VI" URL="../Flatten To JSON Object (Constant).vi"/>
 		<Item Name="Flatten To JSON Object.lvclass" Type="LVClass" URL="../Flatten To JSON Object/Flatten To JSON Object.lvclass"/>
 		<Item Name="Tests.lvlib" Type="Library" URL="../Tests/Tests.lvlib"/>
 		<Item Name="Serialization Binder.lvclass" Type="LVClass" URL="../Serialization Binder/Serialization Binder.lvclass"/>
@@ -38,7 +42,6 @@
 		<Item Name="Default Serialization Binder Tests.lvlib" Type="Library" URL="../Default Serialization Binder Tests/Default Serialization Binder Tests.lvlib"/>
 		<Item Name="JSON Serializable.lvclass" Type="LVClass" URL="../JSON Serializable/JSON Serializable.lvclass"/>
 		<Item Name="JSON Serializable Tests.lvlib" Type="Library" URL="../JSON Serializable Tests/JSON Serializable Tests.lvlib"/>
-		<Item Name="JSON Serializable Serializer (Constant).vi" Type="VI" URL="../JSON Serializable Serializer (Constant).vi"/>
 		<Item Name="JSON Serializable Serializer.lvclass" Type="LVClass" URL="../JSON Serializable Serializer/JSON Serializable Serializer.lvclass"/>
 		<Item Name="JSON Serializable Serializer Tests.lvlib" Type="Library" URL="../JSON Serializable Serializer Tests/JSON Serializable Serializer Tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
