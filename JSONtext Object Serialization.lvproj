@@ -38,8 +38,6 @@
 		<Item Name="Default Serialization Binder Tests.lvlib" Type="Library" URL="../Default Serialization Binder Tests/Default Serialization Binder Tests.lvlib"/>
 		<Item Name="JSON Serializable.lvclass" Type="LVClass" URL="../JSON Serializable/JSON Serializable.lvclass"/>
 		<Item Name="JSON Serializable Tests.lvlib" Type="Library" URL="../JSON Serializable Tests/JSON Serializable Tests.lvlib"/>
-		<Item Name="JSON Serializable Binder.lvclass" Type="LVClass" URL="../JSON Serializable Binder/JSON Serializable Binder.lvclass"/>
-		<Item Name="JSON Serializable Binder Tests.lvlib" Type="Library" URL="../JSON Serializable Binder Tests/JSON Serializable Binder Tests.lvlib"/>
 		<Item Name="JSON Serializable Serializer (Constant).vi" Type="VI" URL="../JSON Serializable Serializer (Constant).vi"/>
 		<Item Name="JSON Serializable Serializer.lvclass" Type="LVClass" URL="../JSON Serializable Serializer/JSON Serializable Serializer.lvclass"/>
 		<Item Name="JSON Serializable Serializer Tests.lvlib" Type="Library" URL="../JSON Serializable Serializer Tests/JSON Serializable Serializer Tests.lvlib"/>
