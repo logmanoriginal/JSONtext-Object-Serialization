@@ -7,6 +7,7 @@
 	<Item Name="Support Files" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Mock JSON Serializable.lvclass" Type="LVClass" URL="../Mock JSON Serializable/Mock JSON Serializable.lvclass"/>
+		<Item Name="Recursive JSON Serializable.lvclass" Type="LVClass" URL="../Recursive JSON Serializable/Recursive JSON Serializable.lvclass"/>
 	</Item>
 	<Item Name="JSON to LVObject - Empty JSON - Returns Object Type.vi" Type="VI" URL="../JSON to LVObject - Empty JSON - Returns Object Type.vi"/>
 	<Item Name="JSON to LVObject - Error in Serializable Class - Returns Object Type.vi" Type="VI" URL="../JSON to LVObject - Error in Serializable Class - Returns Object Type.vi"/>
@@ -18,6 +19,7 @@
 	<Item Name="JSON to LVObject - LVClass Serializer - Is Passed to Serializable Class.vi" Type="VI" URL="../JSON to LVObject - LVClass Serializer - Is Passed to Serializable Class.vi"/>
 	<Item Name="JSON to LVObject - Non Serializable Class - Returns Object Type.vi" Type="VI" URL="../JSON to LVObject - Non Serializable Class - Returns Object Type.vi"/>
 	<Item Name="JSON to LVObject - Offset - Skipps Previous Data.vi" Type="VI" URL="../JSON to LVObject - Offset - Skipps Previous Data.vi"/>
+	<Item Name="JSON to LVObject - Recursion - Returns No Error.vi" Type="VI" URL="../JSON to LVObject - Recursion - Returns No Error.vi"/>
 	<Item Name="JSON to LVObject - Serializable Class - Returns Matching Object.vi" Type="VI" URL="../JSON to LVObject - Serializable Class - Returns Matching Object.vi"/>
 	<Item Name="JSON to LVObject - Unknown Type - Returns Error 1373.vi" Type="VI" URL="../JSON to LVObject - Unknown Type - Returns Error 1373.vi"/>
 	<Item Name="JSON to LVObject - Warning Input - Returns Same Warning.vi" Type="VI" URL="../JSON to LVObject - Warning Input - Returns Same Warning.vi"/>
@@ -33,6 +35,7 @@
 	<Item Name="LVObject to JSON - Not a JSON Value - Returns Error.vi" Type="VI" URL="../LVObject to JSON - Not a JSON Value - Returns Error.vi"/>
 	<Item Name="LVObject to JSON - Pretty Print - Is Passed to Serializable Class.vi" Type="VI" URL="../LVObject to JSON - Pretty Print - Is Passed to Serializable Class.vi"/>
 	<Item Name="LVObject to JSON - Pretty Print - Returns Pretty JSON String.vi" Type="VI" URL="../LVObject to JSON - Pretty Print - Returns Pretty JSON String.vi"/>
+	<Item Name="LVObject to JSON - Recursion - Returns No Error.vi" Type="VI" URL="../LVObject to JSON - Recursion - Returns No Error.vi"/>
 	<Item Name="LVObject to JSON - Serializable Class - Returns JSON String.vi" Type="VI" URL="../LVObject to JSON - Serializable Class - Returns JSON String.vi"/>
 	<Item Name="LVObject to JSON - Warning Input - Returns Same Warning.vi" Type="VI" URL="../LVObject to JSON - Warning Input - Returns Same Warning.vi"/>
 </Library>
