@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-04-14 19:41:22" Creator="Pascal Neuperger" Comments="" ID="df46b676e214aa30843a313811bfb8ed">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-04-19 19:17:08" Creator="Pascal Neuperger" Comments="" ID="8b3b5a9e685e4a1a64b34f6e2b60f319">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JSONtext_Object_Serialization</Package_File_Name>
-    <Library_Version>0.0.1.20</Library_Version>
+    <Library_Version>1.0.0.21</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -17,14 +17,12 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <External_Dependencies>jdp_science_jsontext &gt;= 1.5.3.97</External_Dependencies>
+      <External_Dependencies>jdp_science_jsontext &gt;= 1.5.4.98</External_Dependencies>
       <External_Dependencies>jdp_science_lib_common_utilities &gt;= 1.2.2.13</External_Dependencies>
-      <External_Dependencies>jki_lib_caraya &gt;= 1.1.0.119</External_Dependencies>
-      <External_Dependencies>pnr_lib_labview_composition &gt;= 1.0.1.6</External_Dependencies>
-      <Direct_Dependencies>jdp_science_jsontext-1.5.3.97</Direct_Dependencies>
+      <External_Dependencies>pnr_lib_labview_composition &gt;= 1.2.0.10</External_Dependencies>
+      <Direct_Dependencies>jdp_science_jsontext-1.5.4.98</Direct_Dependencies>
       <Direct_Dependencies>jdp_science_lib_common_utilities-1.2.2.13</Direct_Dependencies>
-      <Direct_Dependencies>jki_lib_caraya-1.1.0.119</Direct_Dependencies>
-      <Direct_Dependencies>pnr_lib_labview_composition-1.0.1.6</Direct_Dependencies>
+      <Direct_Dependencies>pnr_lib_labview_composition-1.2.0.10</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -42,10 +40,10 @@
 Object serialization ia a feature in JSONtext 1.5 and higher, which provides a class-based API to serialize objects from and to JSON. This package adds different strategies to the JSONtext palette.
 
 &lt;b&gt;Generic Object Serializer&lt;/b&gt;
-Represents LabVIEW Objects as composite JSON Object. Parent classes form a union with their child classes.
+Represents the entire inheritance hierarchy of an object as a single JSON object, optionally with type information for deserialization. Type information is produced by serialization binders, which can be replaced by custom implementations. The default serialization binder uses the fully qualified class name for the type name.
 
 &lt;b&gt;JSON Serializable Serializer&lt;/b&gt;
-Serializes objects that inherit from JSON Serializer.</Description>
+Only serializes classes that inherit from JSON Serializable that defines methods to serialize to JSON and deserialize from JSON to allow for better control over the serialization process. Objects that don't inherit from JSON Serializable will produce empty JSON objects "{ }".</Description>
       <Copyright>Copyright (c) 2021, Pascal Neuperger</Copyright>
       <Packager/>
       <URL>https://github.com/LogMANOriginal/JSONtext-Object-Serialization</URL>
@@ -261,7 +259,7 @@ Serializes objects that inherit from JSON Serializer.</Description>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Flatten To JSON Object</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Generic Object Serializer</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>true</is_Merge_VI>
         <Position>
@@ -300,7 +298,7 @@ Serializes objects that inherit from JSON Serializer.</Description>
         <Path>JSON Serializable Serializer Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6CE0F0F3E395DB52A1AB47284205567E</GUID>
+      <GUID>265AE485DB231ABBB4C78B46CFBD77AE</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
