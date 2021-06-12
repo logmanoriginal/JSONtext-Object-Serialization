@@ -41,4 +41,6 @@
 	<Item Name="JSON to LVObject - Warning Input - Returns Same Warning.vi" Type="VI" URL="../JSON to LVObject - Warning Input - Returns Same Warning.vi"/>
 	<Item Name="JSON to LVObject - Warning Input - Returns Specified Object.vi" Type="VI" URL="../JSON to LVObject - Warning Input - Returns Specified Object.vi"/>
 	<Item Name="JSON to LVObject - Offset - Returns Specified Object.vi" Type="VI" URL="../JSON to LVObject - Offset - Returns Specified Object.vi"/>
+	<Item Name="JSON to LVObject - Invalid Nested Type - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Invalid Nested Type - Returns Error.vi"/>
+	<Item Name="JSON to LVObject - Invalid Type in nested Class - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Invalid Type in nested Class - Returns Error.vi"/>
 </Library>

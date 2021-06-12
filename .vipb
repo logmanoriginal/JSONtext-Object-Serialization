@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-04-19 19:17:08" Creator="Pascal Neuperger" Comments="" ID="8b3b5a9e685e4a1a64b34f6e2b60f319">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2021-06-12 10:04:54" Creator="Pascal Neuperger" Comments="" ID="191e8c0b12e9dad55c61892413679591">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JSONtext_Object_Serialization</Package_File_Name>
-    <Library_Version>1.0.0.21</Library_Version>
+    <Library_Version>1.0.1.22</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -47,7 +47,7 @@ Only serializes classes that inherit from JSON Serializable that defines methods
       <Copyright>Copyright (c) 2021, Pascal Neuperger</Copyright>
       <Packager/>
       <URL>https://github.com/LogMANOriginal/JSONtext-Object-Serialization</URL>
-      <Release_Notes>First release</Release_Notes>
+      <Release_Notes>- [#19] Fixed an issue in "Generic Object Serializer", which resulted in errors not being reported to the caller.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -298,7 +298,7 @@ Only serializes classes that inherit from JSON Serializable that defines methods
         <Path>JSON Serializable Serializer Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>265AE485DB231ABBB4C78B46CFBD77AE</GUID>
+      <GUID>F9C3C92EBC223B1DDBDBEF166FFB0D6F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
