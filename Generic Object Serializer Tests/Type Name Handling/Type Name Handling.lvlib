@@ -12,6 +12,7 @@
 	<Item Name="JSON to LVObject - Aggregate - Returns Matching Types.vi" Type="VI" URL="../JSON to LVObject - Aggregate - Returns Matching Types.vi"/>
 	<Item Name="JSON to LVObject - Base Class - Returns Matching Type.vi" Type="VI" URL="../JSON to LVObject - Base Class - Returns Matching Type.vi"/>
 	<Item Name="JSON to LVObject - Descendant - Returns Matching Type.vi" Type="VI" URL="../JSON to LVObject - Descendant - Returns Matching Type.vi"/>
+	<Item Name="JSON to LVObject - Dictionary of Object hierarchy - Returns Object.vi" Type="VI" URL="../../JSON to LVObject - Dictionary of Object hierarchy - Returns Object.vi"/>
 	<Item Name="JSON to LVObject - Empty Type - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Empty Type - Returns Error.vi"/>
 	<Item Name="JSON to LVObject - Undefined Type - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Undefined Type - Returns Error.vi"/>
 	<Item Name="JSON to LVObject - Unknown Type - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Unknown Type - Returns Error.vi"/>

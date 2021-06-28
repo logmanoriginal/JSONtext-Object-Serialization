@@ -16,6 +16,9 @@
 		<Item Name="4D String Array.lvclass" Type="LVClass" URL="../4D String Array/4D String Array.lvclass"/>
 		<Item Name="Error Serialization Binder.lvclass" Type="LVClass" URL="../Error Serialization Binder/Error Serialization Binder.lvclass"/>
 		<Item Name="Malicious Serialization Binder.lvclass" Type="LVClass" URL="../Malicious Serialization Binder/Malicious Serialization Binder.lvclass"/>
+		<Item Name="Country.lvclass" Type="LVClass" URL="../Country/Country.lvclass"/>
+		<Item Name="Dictionary.lvclass" Type="LVClass" URL="../Dictionary/Dictionary.lvclass"/>
+		<Item Name="Create Dummy Country Data.vi" Type="VI" URL="../Create Dummy Country Data.vi"/>
 	</Item>
 	<Item Name="Type Name Handling.lvlib" Type="Library" URL="../Type Name Handling/Type Name Handling.lvlib"/>
 	<Item Name="LabVIEW Extensions.lvlib" Type="Library" URL="../LabVIEW Extensions/LabVIEW Extensions.lvlib"/>
@@ -31,6 +34,7 @@
 	<Item Name="LVObject to JSON - Warning Input - Returns JSON Object.vi" Type="VI" URL="../LVObject to JSON - Warning Input - Returns JSON Object.vi"/>
 	<Item Name="LVObject to JSON - Warning Input - Returns Same Warning.vi" Type="VI" URL="../LVObject to JSON - Warning Input - Returns Same Warning.vi"/>
 	<Item Name="LVObject to JSON - 4D String Array - Returns Error.vi" Type="VI" URL="../LVObject to JSON - 4D String Array - Returns Error.vi"/>
+	<Item Name="LVObject to JSON - Array of Object - Returns JSON String.vi" Type="VI" URL="../LVObject to JSON - Array of Object - Returns JSON String.vi"/>
 	<Item Name="JSON to LVObject - Descendant Class And JSON Object With All Fields - Returns Descendant Class With All Fields Set.vi" Type="VI" URL="../JSON to LVObject - Descendant Class And JSON Object With All Fields - Returns Descendant Class With All Fields Set.vi"/>
 	<Item Name="JSON to LVObject - Error Input - Returns Same Error.vi" Type="VI" URL="../JSON to LVObject - Error Input - Returns Same Error.vi"/>
 	<Item Name="JSON to LVObject - Error Input - Returns LabVIEW Object.vi" Type="VI" URL="../JSON to LVObject - Error Input - Returns LabVIEW Object.vi"/>
@@ -43,4 +47,7 @@
 	<Item Name="JSON to LVObject - Offset - Returns Specified Object.vi" Type="VI" URL="../JSON to LVObject - Offset - Returns Specified Object.vi"/>
 	<Item Name="JSON to LVObject - Invalid Nested Type - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Invalid Nested Type - Returns Error.vi"/>
 	<Item Name="JSON to LVObject - Invalid Type in nested Class - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Invalid Type in nested Class - Returns Error.vi"/>
+	<Item Name="JSON to LVObject - Object with Array of Objects - Returns Object.vi" Type="VI" URL="../JSON to LVObject - Object with Array of Objects - Returns Object.vi"/>
+	<Item Name="JSON to LVObject - Object with Array of Cluster with Object - Returns Object.vi" Type="VI" URL="../JSON to LVObject - Object with Array of Cluster with Object - Returns Object.vi"/>
+	<Item Name="JSON to LVObject - Dictionary of Object with Array of Objects - Returns Object.vi" Type="VI" URL="../JSON to LVObject - Dictionary of Object with Array of Objects - Returns Object.vi"/>
 </Library>
