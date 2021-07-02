@@ -38,6 +38,9 @@
 			<Item Name="JSON Serializable Tests.lvlib" Type="Library" URL="../JSON Serializable Tests/JSON Serializable Tests.lvlib"/>
 			<Item Name="JSON Serializable Serializer Tests.lvlib" Type="Library" URL="../JSON Serializable Serializer Tests/JSON Serializable Serializer Tests.lvlib"/>
 		</Item>
+		<Item Name="Vendor" Type="Folder">
+			<Item Name="__JSONtext__Variant to Flattened String (special).vi" Type="VI" URL="../Vendor/__JSONtext__Variant to Flattened String (special).vi"/>
+		</Item>
 		<Item Name=".vipc" Type="Document" URL="../.vipc"/>
 		<Item Name=".vipb" Type="Document" URL="../.vipb"/>
 		<Item Name="LICENSE.txt" Type="Document" URL="../LICENSE.txt"/>
