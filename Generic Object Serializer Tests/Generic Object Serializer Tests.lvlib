@@ -19,6 +19,7 @@
 		<Item Name="Country.lvclass" Type="LVClass" URL="../Country/Country.lvclass"/>
 		<Item Name="Dictionary.lvclass" Type="LVClass" URL="../Dictionary/Dictionary.lvclass"/>
 		<Item Name="Create Dummy Country Data.vi" Type="VI" URL="../Create Dummy Country Data.vi"/>
+		<Item Name="No Data Member Subclass.lvclass" Type="LVClass" URL="../No Data Member Subclass/No Data Member Subclass.lvclass"/>
 	</Item>
 	<Item Name="Type Name Handling.lvlib" Type="Library" URL="../Type Name Handling/Type Name Handling.lvlib"/>
 	<Item Name="LabVIEW Extensions.lvlib" Type="Library" URL="../LabVIEW Extensions/LabVIEW Extensions.lvlib"/>

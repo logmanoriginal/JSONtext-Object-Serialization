@@ -14,8 +14,10 @@
 	<Item Name="JSON to LVObject - Descendant - Returns Matching Type.vi" Type="VI" URL="../JSON to LVObject - Descendant - Returns Matching Type.vi"/>
 	<Item Name="JSON to LVObject - Dictionary of Object hierarchy - Returns Object.vi" Type="VI" URL="../../JSON to LVObject - Dictionary of Object hierarchy - Returns Object.vi"/>
 	<Item Name="JSON to LVObject - Empty Type - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Empty Type - Returns Error.vi"/>
+	<Item Name="JSON to LVObject - No Data Member - Returns Matching Type.vi" Type="VI" URL="../JSON to LVObject - No Data Member - Returns Matching Type.vi"/>
 	<Item Name="JSON to LVObject - Undefined Type - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Undefined Type - Returns Error.vi"/>
 	<Item Name="JSON to LVObject - Unknown Type - Returns Error.vi" Type="VI" URL="../JSON to LVObject - Unknown Type - Returns Error.vi"/>
 	<Item Name="LVObject to JSON - Base Class - Returns Type.vi" Type="VI" URL="../LVObject to JSON - Base Class - Returns Type.vi"/>
 	<Item Name="LVObject to JSON - LabVIEW Object - Returns Type.vi" Type="VI" URL="../LVObject to JSON - LabVIEW Object - Returns Type.vi"/>
+	<Item Name="LVObject to JSON - No Data Member - Returns Type.vi" Type="VI" URL="../LVObject to JSON - No Data Member - Returns Type.vi"/>
 </Library>
