@@ -20,6 +20,7 @@
 		<Item Name="Dictionary.lvclass" Type="LVClass" URL="../Dictionary/Dictionary.lvclass"/>
 		<Item Name="Create Dummy Country Data.vi" Type="VI" URL="../Create Dummy Country Data.vi"/>
 		<Item Name="No Data Member Subclass.lvclass" Type="LVClass" URL="../No Data Member Subclass/No Data Member Subclass.lvclass"/>
+		<Item Name="Numeric Types.lvclass" Type="LVClass" URL="../Numeric Types/Numeric Types.lvclass"/>
 	</Item>
 	<Item Name="Type Name Handling.lvlib" Type="Library" URL="../Type Name Handling/Type Name Handling.lvlib"/>
 	<Item Name="LabVIEW Extensions.lvlib" Type="Library" URL="../LabVIEW Extensions/LabVIEW Extensions.lvlib"/>
@@ -51,4 +52,15 @@
 	<Item Name="JSON to LVObject - Object with Array of Objects - Returns Object.vi" Type="VI" URL="../JSON to LVObject - Object with Array of Objects - Returns Object.vi"/>
 	<Item Name="JSON to LVObject - Object with Array of Cluster with Object - Returns Object.vi" Type="VI" URL="../JSON to LVObject - Object with Array of Cluster with Object - Returns Object.vi"/>
 	<Item Name="JSON to LVObject - Dictionary of Object with Array of Objects - Returns Object.vi" Type="VI" URL="../JSON to LVObject - Dictionary of Object with Array of Objects - Returns Object.vi"/>
+	<Item Name="JSON to LVObject - U16 Enum Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - U16 Enum Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - U32 Enum Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - U32 Enum Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - U8 Enum Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - U8 Enum Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - U8 Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - U8 Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - U16 Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - U16 Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - U32 Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - U32 Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - U64 Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - U64 Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - I8 Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - I8 Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - I16 Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - I16 Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - I32 Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - I32 Member - Should Parse Value.vi"/>
+	<Item Name="JSON to LVObject - I64 Member - Should Parse Value.vi" Type="VI" URL="../JSON to LVObject - I64 Member - Should Parse Value.vi"/>
 </Library>

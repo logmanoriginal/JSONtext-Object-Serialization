@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2022-04-23 17:44:10" Creator="Pascal Neuperger" Comments="" ID="5a43a13c055b83d65b60f5a05381030b">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2022-05-27 09:35:25" Creator="Pascal Neuperger" Comments="" ID="bf89c7502e3241fb05f5383352876c1d">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JSONtext_Object_Serialization</Package_File_Name>
-    <Library_Version>1.0.2.24</Library_Version>
+    <Library_Version>1.0.3.25</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -17,11 +17,11 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <External_Dependencies>jdp_science_jsontext &gt;= 1.5.4.98</External_Dependencies>
-      <External_Dependencies>jdp_science_lib_common_utilities &gt;= 1.2.2.13</External_Dependencies>
+      <External_Dependencies>jdp_science_jsontext &gt;= 1.6.7.107</External_Dependencies>
+      <External_Dependencies>jdp_science_lib_common_utilities &gt;= 1.4.0.17</External_Dependencies>
       <External_Dependencies>pnr_lib_labview_composition &gt;= 1.2.3.18</External_Dependencies>
-      <Direct_Dependencies>jdp_science_jsontext-1.5.4.98</Direct_Dependencies>
-      <Direct_Dependencies>jdp_science_lib_common_utilities-1.2.2.13</Direct_Dependencies>
+      <Direct_Dependencies>jdp_science_jsontext-1.6.7.107</Direct_Dependencies>
+      <Direct_Dependencies>jdp_science_lib_common_utilities-1.4.0.17</Direct_Dependencies>
       <Direct_Dependencies>pnr_lib_labview_composition-1.2.3.18</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
@@ -47,7 +47,7 @@ Only serializes classes that inherit from JSON Serializable that defines methods
       <Copyright>Copyright (c) 2021-2022, Pascal Neuperger</Copyright>
       <Packager>Pascal Neuperger</Packager>
       <URL>https://github.com/LogMANOriginal/JSONtext-Object-Serialization</URL>
-      <Release_Notes>- [#21] Fixed an issue in "Generic Object Serializer" that resulted in an error when attempting to de-serialize a class without data member using inline type name handling.</Release_Notes>
+      <Release_Notes>- [#22] Changed minimum required version for JSONtext to 1.6.7. That version addresses an issue which resulted in incorrect values for numeric types with less than 32 bits.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -299,7 +299,7 @@ Only serializes classes that inherit from JSON Serializable that defines methods
         <Path>JSON Serializable Serializer Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4B4687354A4399285DA6A1543BF62B09</GUID>
+      <GUID>7EBFDF826A4235191D26058A74809687</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
