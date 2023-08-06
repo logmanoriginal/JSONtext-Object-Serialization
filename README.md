@@ -11,6 +11,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Build Status][azure-build-status-shield]][azure-build-status-url]
 [![BSD-3-Clause License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
@@ -127,3 +128,5 @@ Project Link: [https://github.com/logmanoriginal/jsontext-object-serialization](
 [issues-url]: https://github.com/logmanoriginal/jsontext-object-serialization/issues
 [license-shield]: https://img.shields.io/github/license/logmanoriginal/jsontext-object-serialization.svg?style=for-the-badge
 [license-url]: https://github.com/logmanoriginal/jsontext-object-serialization/blob/master/LICENSE.txt
+[azure-build-status-url]: https://dev.azure.com/neuperger/Public/_build/latest?definitionId=18&branchName=main
+[azure-build-status-shield]: https://img.shields.io/azure-devops/build/neuperger/public/18/main?style=for-the-badge&logo=azure-pipelines&label=Azure%20Pipelines
