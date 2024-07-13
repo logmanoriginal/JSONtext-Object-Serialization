@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2022-05-27 09:35:25" Creator="Pascal Neuperger" Comments="" ID="bf89c7502e3241fb05f5383352876c1d">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-19 22:45:16" Modified_Date="2024-07-13 17:29:15" Creator="Pascal Neuperger" Comments="" ID="51af48fb9166557d05d77f8744fcbcc0">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JSONtext_Object_Serialization</Package_File_Name>
-    <Library_Version>1.0.3.25</Library_Version>
+    <Library_Version>1.0.4.26</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -17,12 +17,12 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <External_Dependencies>jdp_science_jsontext &gt;= 1.6.7.107</External_Dependencies>
+      <External_Dependencies>jdp_science_jsontext &gt;= 1.6.10.113</External_Dependencies>
       <External_Dependencies>jdp_science_lib_common_utilities &gt;= 1.4.0.17</External_Dependencies>
-      <External_Dependencies>pnr_lib_labview_composition &gt;= 1.2.3.18</External_Dependencies>
-      <Direct_Dependencies>jdp_science_jsontext-1.6.7.107</Direct_Dependencies>
+      <External_Dependencies>pnr_lib_labview_composition &gt;= 1.3.1.26</External_Dependencies>
+      <Direct_Dependencies>jdp_science_jsontext-1.6.10.113</Direct_Dependencies>
       <Direct_Dependencies>jdp_science_lib_common_utilities-1.4.0.17</Direct_Dependencies>
-      <Direct_Dependencies>pnr_lib_labview_composition-1.2.3.18</Direct_Dependencies>
+      <Direct_Dependencies>pnr_lib_labview_composition-1.3.1.26</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -44,10 +44,11 @@ Represents the entire inheritance hierarchy of an object as a single JSON object
 
 &lt;b&gt;JSON Serializable Serializer&lt;/b&gt;
 Only serializes classes that inherit from JSON Serializable that defines methods to serialize to JSON and deserialize from JSON to allow for better control over the serialization process. Objects that don't inherit from JSON Serializable will produce empty JSON objects "{ }".</Description>
-      <Copyright>Copyright (c) 2021-2022, Pascal Neuperger</Copyright>
+      <Copyright>Copyright (c) 2021-2024, Pascal Neuperger</Copyright>
       <Packager>Pascal Neuperger</Packager>
       <URL>https://github.com/LogMANOriginal/JSONtext-Object-Serialization</URL>
-      <Release_Notes>- [#22] Changed minimum required version for JSONtext to 1.6.7. That version addresses an issue which resulted in incorrect values for numeric types with less than 32 bits.</Release_Notes>
+      <Release_Notes>- [#25] Changed minimum required version for LabVIEW Composition to 1.3.1. That version addressed an issue that resulted in errors when composing interfaces. ([@Niatross](https://github.com/Niatross))
+- Changed minimum required version for JSONtext to 1.6.10.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -167,6 +168,12 @@ Only serializes classes that inherit from JSON Serializable that defines methods
       </Exclusions>
       <Exclusions>
         <Path>Generic Object Serializer Tests</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Toolchain</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>azure-pipelines.yml</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>LICENSE.txt</License_Agreement_Filepath>
@@ -299,7 +306,7 @@ Only serializes classes that inherit from JSON Serializable that defines methods
         <Path>JSON Serializable Serializer Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7EBFDF826A4235191D26058A74809687</GUID>
+      <GUID>9C166F92C9BBCAEB122B6082D2A6C623</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
